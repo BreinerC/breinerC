@@ -1,0 +1,7 @@
+com\adsi\app\modelo\Conexion.class
+com\adsi\app\modelo\Producto.class
+com\adsi\app\modelo\Proveedores.class
+com\adsi\app\modelo\Cliente.class
+com\adsi\app\controlador\Controlador.class
+com\adsi\app\rest\ProductoRest.class
+com\adsi\app\rest\AplicationConfig.class
